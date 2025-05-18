@@ -5,7 +5,7 @@ Eggs Timer is a simple iOS application built using Swift and Xcode. It provides 
 ## Features
 - Easy selection of egg types
 - Visual timer feedback
-- Beautiful UI with custom icons
+- custom icons
 - Built with modular ViewControllers for easy maintenance
 
 ---
